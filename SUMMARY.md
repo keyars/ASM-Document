@@ -21,4 +21,4 @@
   * [📊 Dashboard](mobile-application/dashboard.md)
   * [🔃 Data Synchronization](mobile-application/data-synchronization.md)
   * [📦 Inventory Management](mobile-application/inventory-management.md)
-  * [Page 1](mobile-application/page-1.md)
+  * [🏷️ Asset Audit Workflow](mobile-application/asset-audit-workflow.md)
