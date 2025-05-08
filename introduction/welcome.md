@@ -19,6 +19,8 @@ The RFID Asset Management System helps:
 
 This manual is your companion to help you understand and use the system confidently — whether you're scanning assets in a room or managing them from your desktop.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### Who Should Use This Guide?

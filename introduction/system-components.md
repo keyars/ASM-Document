@@ -19,7 +19,7 @@ RFID tags are small labels attached to assets. Each tag has a unique chip that s
 
 > ✅ Tip: Make sure the tag is readable using the scanner after attaching it to an asset.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>RFID Tags</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>RFID Tags</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="188"><figcaption><p>RFID Tag Attached to Asset</p></figcaption></figure>
 

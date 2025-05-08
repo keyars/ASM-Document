@@ -12,6 +12,8 @@ description: >-
 
 Unlike barcodes, **RFID does not require line-of-sight** and can scan multiple tags at once — even through material like metal or plastic.
 
+
+
 ***
 
 #### How RFID Improves Asset Management
@@ -25,6 +27,8 @@ Here’s what makes RFID ideal for tracking assets:
 
 Whether you’re managing hospital equipment, office IT assets, or warehouse items, RFID makes it effortless to track what you own and where it is.
 
+<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### What the System Does for You
@@ -35,5 +39,7 @@ This system helps you:
 * Identify **missing or misplaced items**
 * Perform regular **audits**
 * Maintain full records and reports with ease
+
+<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
 
 Now, let’s break down the components you’ll use every day.

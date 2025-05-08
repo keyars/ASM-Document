@@ -19,6 +19,8 @@ This user manual is your step-by-step guide to effectively using the **RFID-base
 
 The system leverages **RFID technology** to enable fast, contactless asset tracking, reducing manual errors and ensuring real-time visibility across departments.
 
+<figure><img src=".gitbook/assets/Asset Lite RFID Asset Management System.jpg" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### Who Should Use This Guide?
@@ -51,5 +53,7 @@ The manual is divided into easy-to-navigate sections, covering:
 🔹 Accessing and Exporting Reports
 
 🔹 Troubleshooting & FAQs
+
+<div><figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 4.59.01 PM.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/04 - Dashboard.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screen Shot 2025-05-07 at 2.53.53 PM.png" alt=""><figcaption></figcaption></figure></div>
 
 Whether you're performing your first asset scan or managing the entire infrastructure, this guide will help you make the most of the system.
