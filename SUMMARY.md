@@ -22,4 +22,5 @@
   * [🔃 Data Synchronization](mobile-application/data-synchronization.md)
   * [📦 Inventory Management](mobile-application/inventory-management.md)
   * [🏷️ Asset Audit Workflow](mobile-application/asset-audit-workflow.md)
-  * [📚 Audit History](mobile-application/audit-history.md)
+  * [📚 Audit History](mobile-application/page-1.md)
+  * [🔍 Individual Asset Scan](mobile-application/individual-asset-scan.md)
